@@ -12,7 +12,7 @@ from plotly.subplots import make_subplots
 # ---------- THEME / CONSTANTS ----------
 APP_TITLE = "UEFA Shortlist Task Analysis"
 APP_ICON = "⚽"
-DEFAULT_PATH = "/Users/farzammanafzadeh/Desktop/Uefa Task/Streamlit.csv"
+DEFAULT_PATH = "Streamlit.csv"
 
 # soft, opposing palette (not harsh) — keep your colors
 COL_HOME = "#3B82F6"     # soft blue
